@@ -1,0 +1,13 @@
+h1 img{
+    height: 48px; /* Mismo tamaño que el texto */
+    margin-right: 10px; /* Espacio entre la imagen y el texto */
+}
+
+h1 {
+    font-size: 48px; /* Tamaño del texto */
+    line-height: 48px; /* Espacio entre líneas */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    text-align: center; /* Centrar el texto */
+    color: #333; /* Color del texto */
+    background-color: lightseagreen;
+  }
